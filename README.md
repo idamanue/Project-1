@@ -74,7 +74,7 @@ The following refinement was applied:
 
 ### Variable Correlation
 With the aid of a correlation matrix and heat map, we identify the correlations among the features of the borrower. This allows us to further reduce the number of variables needed. For example, it was found that there was a very strong negative correlation between the number of delinquencies the past 2 years and the number of months since last delinquency. This allows us to ignore the mths_since_last_delinq from further analysis; knowing that if the variable *delinq_2yrs* ends up being significant, then the risks associated with higher number of delinquincies in the past 2 years will also be associated with smaller number of months since last delinquency.
-![Correlation Heatmap](part1_heatmap.png)
+![Correlation Heatmap](Resources/project_files/part1_heatmap.png)
 
 ### Distributions
 We then look at how the cummulative loans or the median interest rate is distributed against the loan features. For example, it was determined that though the majority (more than 50%) of loans are received by home owners followed by renters, home ownership doesn't seem to affect the interest rate.
@@ -129,16 +129,16 @@ From part 1, it cam be observed that:
 
 * There is no discernable trend between the interest rate and the number of public records, home ownership, and length of employment
 * The higher the amount of the credit line used relative to total credit available, the higher the interest rate on a loan; same trend with the debt to income ratio   
-![Debt-to-Income vs Median Interest Rate](part1_dti_vs_rate.png)
+![Debt-to-Income vs Median Interest Rate](Resources/project_files/part1_dti_vs_rate.png)
 * When an account has been delinquent for 25+ months during the past 2 years, the interest rate is higher
 * The rates are slightly higher for people with hardship and those loans not fully paid.
 * Loans at risk are function of the average debt-to-income ratio and number of years of employment.
 * People with hardships are more riskier.
 * Higher average DTI is very risky, whether or not one has hardship, own or rent a home; and it is surprisingly riskier for people without hardship  
-![Debt-to-Income vs "At Risk" & "Fully Paid" Borrowers](part1_AtRisk_vs_FullyPaid_dti.png)
+![Debt-to-Income vs "At Risk" & "Fully Paid" Borrowers](Resources/project_files/part1_AtRisk_vs_FullyPaid_dti.png)
 
 From Part 2:
 * However, the majority of the loans are distributed around the coast of Africa and South America 
 * Women and first timers are less likely to get the loans; with the discrepancy for women much severe. 
 * Agriculture and Trade/Commerce account for more than 50% of the Development-Credit-Authority loans; with no specific country or region dominating the recipients.    
-![Development_Credit_Authority_DCA](part2_dca_credit_sector.png)
+![Development_Credit_Authority_DCA](Resources/project_files/part2_dca_credit_sector.png)
