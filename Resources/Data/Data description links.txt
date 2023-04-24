@@ -1,0 +1,15 @@
+USAID DCA: https://data.usaid.gov/Economic-Growth/Development-Credit-Authority-DCA-Data-Set-Loan-Tra/dt8c-833c
+U.S. Overseas Loans and Grants: https://data.usaid.gov/Administration-and-Oversight/U-S-Overseas-Loans-and-Grants-Greenbook-Data/7cnw-pw8v
+Dollars To Results: https://data.usaid.gov/Administration-and-Oversight/Dollars-to-Results-Data/un46-v2ns
+USAID Public-Private Partnerships Database - Data FY 2001 to FY 2014: https://data.usaid.gov/Financial-Sector/USAID-Public-Private-Partnerships-Database-Data-FY/w37i-bxwn
+USAID Anticorruption Projects Database: https://data.usaid.gov/Good-Governance/USAID-Anticorruption-Projects-Database/ubuf-e3x5
+USAID Activity Locations - Activity Descriptions: https://data.usaid.gov/Evaluation/USAID-Activity-Locations-Activity-Descriptions/jusn-k97d
+ForeignAssistance.gov: https://data.usaid.gov/Administration-and-Oversight/ForeignAssistance-gov/vm6y-fcqn
+
+China_as_International_Lender: https://data.world/unhcr/49ecaf84-7fdc-4846-9260-041fcb52aea5
+
+World_Bank__IBRD__Bonds__1947-Present_: https://finances.worldbank.org/Other/World-Bank-IBRD-Bonds-1947-Present-/3fps-tcuv
+
+IBRD_Statement_of_Loans: https://finances.worldbank.org/Loans-and-Credits/IBRD-Statement-Of-Loans-Historical-Data/zucq-nrc3
+
+chinese_loans_to_africa_db.csv: Boston University Global Development Policy Center. 2022. Chinese Loans to Africa Database. Retrieved from http://bu.edu/gdp/chinese-loans-to-africa-database.
